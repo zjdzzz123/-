@@ -1,5 +1,7 @@
 # README
 
+介绍：利用matlab实现的可视化排序
+
 进入 'code' 文件夹：
 
 直接运行以 '_sort.m' 结尾的matlab文件即可进行可视化排序。
